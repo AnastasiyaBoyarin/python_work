@@ -1,0 +1,46 @@
+{
+    "orders": [
+        {
+            "buyer": "Ivanov I.I.",
+            "date": "24.09.2017",
+            "item": "printer",
+            "price": "6700",
+            "quantity": "10"
+        },
+        {
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018",
+            "item": "scaner",
+            "price": "10000",
+            "quantity": "20"
+        },
+        {
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018",
+            "item": "scaner",
+            "price": "10000",
+            "quantity": "20"
+        },
+        {
+            "buyer": "Petrov P.P.",
+            "date": "11.01.2018",
+            "item": "scaner",
+            "price": "10000",
+            "quantity": "20"
+        },
+        {
+            "buyer": "Nastya Boyarin",
+            "date": "15.04.2023",
+            "item": "scaner",
+            "price": "1000",
+            "quantity": "5"
+        },
+        {
+            "item": "scaner",
+            "quantity": "5",
+            "price": "1000",
+            "buyer": "Nastya Boyarin",
+            "date": "15.04.2023"
+        }
+    ]
+}
